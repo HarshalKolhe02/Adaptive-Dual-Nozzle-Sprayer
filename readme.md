@@ -1,0 +1,2 @@
+# Adaptive Dual Nozzle Sprayer
+This repository includes the Adaptive Dual Nozzle Spraying System designed for an agricultural spraying drone built in execution of the NIDAR competition. The system is capable of selectively controlling two different nozzle sizes to deliver adaptive and more efficient spraying in precision agriculture.
